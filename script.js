@@ -57,7 +57,7 @@
                         <div class="lg:w-1/2 px-6">
                             <div  class="relative w-full">
                                 <div class= "relative overflow-hidden ">
-                                    <img src="../public/images/2024-08-24_17-47-removebg-preview.png" alt="iCog Labs Team 1" class="w-full">
+                                    <img src="public/images/2024-08-24_17-47-removebg-preview.png" alt="iCog Labs Team 1" class="w-full">
                                 </div>
 
                             </div>
@@ -75,7 +75,7 @@
                     <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 px-6">
                         <!-- Services Section -->
                         <div class="text-center">
-                            <img src="../public/images/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="Services" class="w-full mb-4 rounded-lg shadow-lg">
+                            <img src="public/images/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="Services" class="w-full mb-4 rounded-lg shadow-lg">
                             <h3 class="text-2xl font-bold text-black mb-2">SERVICES</h3>
                             <p class="text-gray-700 text-sm mb-4">
                                 Hafiz Solutions provides a variety of Web-Based solutions and development services for any customers, including Landing websites, E-commerce websites, and application software development.
@@ -85,7 +85,7 @@
 
                         <!-- iCog Blog Section -->
                         <div class="text-center">
-                            <img src="../public/images/jess-bailey-q10VITrVYUM-unsplash (1).jpg" alt="H-S Blog" class="w-full mb-4 rounded-lg shadow-lg">
+                            <img src="public/images/jess-bailey-q10VITrVYUM-unsplash (1).jpg" alt="H-S Blog" class="w-full mb-4 rounded-lg shadow-lg">
                             <h3 class="text-2xl font-bold text-black mb-2">H-S BLOG</h3>
                             <p class="text-gray-700 text-sm mb-4">
                                 Hafiz-solutions blog gives a window into some of the broader issues that interest our  software development team. Technological, philosophical, and sociocultural themes intermix, all in the spirit of creating a radically better future for Ethiopia, Africa, and the world.
@@ -95,7 +95,7 @@
 
                         <!-- Latest News Section -->
                         <div class="text-center">
-                            <img src="../public/images/1690462453130.png" alt="Latest News" class="w-full mb-4 rounded-lg shadow-lg">
+                            <img src="public/images/1690462453130.png" alt="Latest News" class="w-full mb-4 rounded-lg shadow-lg">
                             <h3 class="text-2xl font-bold text-black mb-2">LATEST NEWS</h3>
                             <p class="text-gray-700 text-sm mb-4">
                                 Hafiz Solution, a leading provider of web development services, is excited to announce the launch of its latest software product designed specifically for small business owners.
@@ -105,7 +105,7 @@
 
                         <!-- Partners Section -->
                         <div class="text-center">
-                            <img src="../public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
+                            <img src="public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
                             <h3 class="text-2xl font-bold text-black mb-2">About</h3>
                             <p class="text-gray-700 text-sm mb-4">
                                 Hafiz Solution is a forward-thinking web development company committed to empowering small businesses through innovative digital solutions. Established with a passion for technology and a dedication to excellence.
@@ -220,7 +220,7 @@
         <div class="container mx-auto mt-10 flex flex-col lg:flex-row items-center lg:px-24">
             <!-- Left Section -->
             <div class="lg lg:px-24 mb-8 lg:mx-24 lg:mb-0">
-                    <img src="../public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
+                    <img src="public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
 
                 <h1 class="text-4xl font-bold text-black mb-4 text-center">Our mission</h1>
                 <p class="text-gray-700 text-lg mb-6 text-center">
@@ -232,7 +232,7 @@
             <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 px-6">
                 <!-- Services Section -->
                 <div class="text-center">
-                    <img src="../public/images/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="Services" class="w-full mb-4 rounded-lg shadow-lg">
+                    <img src="public/images/igor-miske-Px3iBXV-4TU-unsplash.jpg" alt="Services" class="w-full mb-4 rounded-lg shadow-lg">
                     <h3 class="text-2xl font-bold text-black mb-2">SERVICES</h3>
                     <p class="text-gray-700 text-sm mb-4">
                         Hafiz Solutions provides a variety of Web-Based solutions and development services for any customers, including Landing websites, E-commerce websites, and application software development.
@@ -242,7 +242,7 @@
 
                 <!-- iCog Blog Section -->
                 <div class="text-center">
-                    <img src="../public/images/jess-bailey-q10VITrVYUM-unsplash (1).jpg" alt="H-S Blog" class="w-full mb-4 rounded-lg shadow-lg">
+                    <img src="public/images/jess-bailey-q10VITrVYUM-unsplash (1).jpg" alt="H-S Blog" class="w-full mb-4 rounded-lg shadow-lg">
                     <h3 class="text-2xl font-bold text-black mb-2">H-S BLOG</h3>
                     <p class="text-gray-700 text-sm mb-4">
                         Hafiz-solutions blog gives a window into some of the broader issues that interest our  software development team. Technological, philosophical, and sociocultural themes intermix, all in the spirit of creating a radically better future for Ethiopia, Africa, and the world.
@@ -252,7 +252,7 @@
 
                 <!-- Latest News Section -->
                 <div class="text-center">
-                    <img src="../public/images/1690462453130.png" alt="Latest News" class="w-full mb-4 rounded-lg shadow-lg">
+                    <img src="public/images/1690462453130.png" alt="Latest News" class="w-full mb-4 rounded-lg shadow-lg">
                     <h3 class="text-2xl font-bold text-black mb-2">LATEST NEWS</h3>
                     <p class="text-gray-700 text-sm mb-4">
                         Hafiz Solution, a leading provider of web development services, is excited to announce the launch of its latest software product designed specifically for small business owners.
@@ -262,7 +262,7 @@
 
                 <!-- Partners Section -->
                 <div class="text-center">
-                    <img src="../public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
+                    <img src="public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="Partners" class="w-full mb-4 rounded-lg shadow-lg">
                     <h3 class="text-2xl font-bold text-black mb-2">About</h3>
                     <p class="text-gray-700 text-sm mb-4">
                         Hafiz Solution is a forward-thinking web development company committed to empowering small businesses through innovative digital solutions. Established with a passion for technology and a dedication to excellence.
@@ -287,7 +287,7 @@
                             <div class="relative w-full">
                                 <!-- Slides -->
                                 <div class="slides relative overflow-hidden rounded-lg shadow-lg">
-                                    <img src="../public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="iCog Labs Team 1" class="w-full">
+                                    <img src="public/images/ian-schneider-TamMbr4okv4-unsplash.jpg" alt="iCog Labs Team 1" class="w-full">
                                 </div>
                             </div>
                         </div>
@@ -374,7 +374,7 @@
                     <div class="lg:w-1/2 px-0">
                         <div  class="relative w-full">
                             <div class= "relative overflow-hidden ">
-                                <img src="../public/images/[removal.ai]_d495d517-c61f-45be-95ef-dcdde7989ac8-quino-al-8gweaaxjjti-unsplash.png" alt="iCog Labs Team 1" class="w-full rounded-lg">
+                                <img src="public/images/[removal.ai]_d495d517-c61f-45be-95ef-dcdde7989ac8-quino-al-8gweaaxjjti-unsplash.png" alt="iCog Labs Team 1" class="w-full rounded-lg">
                             </div>
 
                         </div>
